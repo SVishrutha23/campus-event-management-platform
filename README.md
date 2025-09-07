@@ -131,4 +131,3 @@ The most satisfying aspect?  observing how something as basic as campus communit
 
  * Designed with the campus community in mind.  Great events should be managed well.
 
-**Made for Webknot Technologies Assignment | September 2025**

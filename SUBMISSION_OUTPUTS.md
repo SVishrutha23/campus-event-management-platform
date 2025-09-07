@@ -1,5 +1,3 @@
-{{ ... }}
-
 ### Sample Report Outputs:
 
 #### Event Popularity Report
@@ -169,5 +167,3 @@
   }
 ]
 ```
-
-{{ ... }}
